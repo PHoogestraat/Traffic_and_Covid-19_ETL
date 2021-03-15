@@ -62,6 +62,6 @@ Indiana's data was by far the most interesting, but no correlation appears to be
 This database allows for quick comparison of covid and traffic data for any of the 50 states thanks to the steps taken in cleaning up the data and transforming it.   
 
 <h3><b><div align = "center">Contributors</div></b></h3>
-<h4><b><div align = "center">Kevin Gray </div></b></h4>
+<h4><b><div align = "center">Zachary Gibbs</div></b></h4>
 <h4><b><div align = "center">Paul Hoogestraat</div></b></h4>
 <h4><b><div align = "center">Bill Taylor</div></b></h4>
